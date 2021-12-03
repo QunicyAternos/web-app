@@ -1,0 +1,13 @@
+body{
+    color: white;
+    background-color: gray;
+}
+
+#identify_button{
+color: black;
+}
+
+#Capture_button{
+    color: black;
+    background-color: white;
+}
